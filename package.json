@@ -1,8 +1,8 @@
 {
   "name": "keepass-sync",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Synchronizes one keepass database to the other",
+  "main": "keepass-sync.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
