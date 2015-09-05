@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var path = require('path');
 var kpio = require('keepass.io');
 var moment = require('moment');
@@ -150,7 +151,7 @@ function mergeKdbx(kdbxFrom, kdbxFromCredentials, kdbxTo, kdbxToCredentials) {
 }
 
 if(process.argv.length < 5) {
-  return console.error('Usage: node keepass.js from.kdbx to.kdbx merged.kdbx');
+  return console.error('Usage: keepass-sync from.kdbx to.kdbx merged.kdbx');
 }
 
 console.log('Note: password should match both databases');
