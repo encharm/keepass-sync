@@ -2,6 +2,7 @@
   "name": "keepass-sync",
   "version": "1.0.0",
   "description": "Synchronizes one keepass database to the other",
+  "bin": "keepass-sync.js",
   "main": "keepass-sync.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
