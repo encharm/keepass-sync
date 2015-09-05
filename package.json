@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Damian Kaczmarek <rush@codecharm.co.uk>",
+  "license": "MIT",
   "dependencies": {
     "bluebird": "^2.9.34",
     "keepass.io": "^1.1.3",
