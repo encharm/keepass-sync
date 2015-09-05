@@ -1,6 +1,6 @@
 {
   "name": "keepass-sync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Synchronizes one keepass database to the other",
   "bin": "keepass-sync.js",
   "main": "keepass-sync.js",
